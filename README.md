@@ -7,16 +7,12 @@
 <br>LinkedIn: -
 <br>Google Scholar: -
 
-<br>
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 🌱 Education
-* Mar.2018 - Aug.2023
-  * B.S, Dept. of Mathematics, Kyung Hee University, Seoul
 * Sep.2023 - _Present_
   * M.S, Dept. of Artificial Intelligence, Korea University, Seoul
+* Mar.2018 - Aug.2023
+  * B.S, Dept. of Mathematics, Kyung Hee University, Seoul
 
 ## 🔥Research Experience
 * Sep.2023 - _Present_
