@@ -3,24 +3,24 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Hello!&fontSize=90)
 
 🏫 I'm an M.S. student in Department of Artificial Intelligence at Korea University.
-<br><br>Research Interests: **Text-to-Speech**, **Generative Models**, **Speech Enhancement**
+<br><br> Research Interests: **Text-to-Speech**, **Generative Models**, **Speech Enhancement**
 <br>E-mail: jh_yun@korea.ac.kr
 <br>LinkedIn: -
 <br>Google Scholar: -
 
 
 ## 🌱 Education
-* Sep.2023 - _Present_
+* **Sep.2023 - _Present_**
   * M.S, Dept. of Artificial Intelligence, Korea University, Seoul
-* Mar.2018 - Aug.2023
+* **Mar.2018 - Aug.2023**
   * B.S, Dept. of Mathematics, Kyung Hee University, Seoul
 
 ## 🔥Research Experience
-* Sep.2023 - _Present_
+* **Sep.2023 - _Present_**
   * PRML Lab in Korea University
-* Jul.2023 - Aug.2023
+* **Jul.2023 - Aug.2023**
   * Visual Intelligence Lab in Electronics and Telecommunications Research Institute(ETRI)
-* Nov.2022 - Jun.2023
+* **Nov.2022 - Jun.2023**
   * Numerical Analysis Lab in Kyung Hee University
 
 ## 📑Publication
@@ -31,7 +31,7 @@
 * J.-H. Yun, S.-H. Jeon, and Y.-J. Lee "Distributed Neural Network Optimization Study using Adaptive Approach for Multi-Agent Collaborative Learning Application" in ACK(한국정보처리학회), 2023 추계학술대회.
 * J.-H. Yun, J.-J. Kim, T.-G. Kim, S.-H. Lee, and H.-S. Yang "Image Restoration based on Reverse Diffusion of Incremental Degradation" in IEIE(대한전자공학회), 2023 하계학술대회.
 
-### 🏆 Awards
+## 🏆 Awards
 * ACK 2023 Industry-Academia Collaboration Excellence Award
   
 <!--(
