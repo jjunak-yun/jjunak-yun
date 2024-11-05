@@ -25,7 +25,7 @@
 
 ## 📑Publication
 **[International Conferences]**
-* J.-H. Yun, S.-B. Kim, and S.-H. Lee "FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching" in (Under review), 2024.
+* J.-H. Yun, S.-B. Kim, and S.-W. Lee "FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching" in (Under review), 2024.
 
 <br>**[Domestic Conferences]**
 * J.-H. Yun, S.-H. Jeon, and Y.-J. Lee "Distributed Neural Network Optimization Study using Adaptive Approach for Multi-Agent Collaborative Learning Application" in ACK(한국정보처리학회), 2023 추계학술대회.
