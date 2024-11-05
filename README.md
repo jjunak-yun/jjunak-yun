@@ -1,6 +1,6 @@
 # Jun-Hak Yun
 ## Hi there, jjunak-yun's github👋
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Hello!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 
 🏫 I'm an M.S. student in Department of Artificial Intelligence at Korea University.
 <br><br> Research Interests: **Text-to-Speech**, **Generative Models**, **Speech Enhancement**
