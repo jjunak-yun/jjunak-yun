@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 
 🏫 I'm an M.S. student in Department of Artificial Intelligence at Korea University.
-<br><br> Research Interests: **Text-to-Speech**, **Generative Models**, **Speech Enhancement**
+<br><br> Research Interests: **Text-to-Speech**, **Speech Enhancement**, **Generative Models**, **Large-Language Models**
 <br>E-mail: jh_yun@korea.ac.kr
 <br>LinkedIn: -
 <br>Google Scholar: -
