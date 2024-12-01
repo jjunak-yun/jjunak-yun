@@ -25,11 +25,11 @@
 
 ## 📑Publication
 **[International Conferences]**
-* J.-H. Yun, S.-B. Kim, and S.-W. Lee "FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching" in (Under review), 2024.
+* J.-H. Yun, S.-B. Kim, and S.-W. Lee "FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching" in _(Under review)_, 2024.
 
 <br>**[Domestic Conferences]**
-* J.-H. Yun, S.-H. Jeon, and Y.-J. Lee "Distributed Neural Network Optimization Study using Adaptive Approach for Multi-Agent Collaborative Learning Application" in ACK, 2023.
-* J.-H. Yun, J.-J. Kim, T.-G. Kim, S.-H. Lee, and H.-S. Yang "Image Restoration based on Reverse Diffusion of Incremental Degradation" in IEIE, 2023.
+* J.-H. Yun, S.-H. Jeon, and Y.-J. Lee "Distributed Neural Network Optimization Study using Adaptive Approach for Multi-Agent Collaborative Learning Application" in _ACK_, 2023.
+* J.-H. Yun, J.-J. Kim, T.-G. Kim, S.-H. Lee, and H.-S. Yang "Image Restoration based on Reverse Diffusion of Incremental Degradation" in _IEIE_, 2023.
 
 ## 🏆 Awards
 * ACK 2023 Industry-Academia Collaboration Excellence Award
