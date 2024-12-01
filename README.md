@@ -19,7 +19,7 @@
 * **Sep.2023 - _Present_**
   * PRML Lab in Korea University
 * **Jul.2023 - Aug.2023**
-  * Visual Intelligence Lab in Electronics and Telecommunications Research Institute(ETRI)
+  * Visual Intelligence Lab in Electronics and Telecommunications Research Institute (ETRI)
 * **Nov.2022 - Jun.2023**
   * Numerical Analysis Lab in Kyung Hee University
 
