@@ -25,7 +25,7 @@
 
 ## 📑Publication
 **[International Conferences]**
-* J.-H. Yun, S.-B. Kim, and S.-W. Lee "FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching" in _ICASSP_, 2025. [Paper](https://arxiv.org/abs/2501.04926) [Code](https://github.com/jjunak-yun/FLowHigh_code) [Demo](https://jjunak-yun.github.io/FLowHigh/)
+* J.-H. Yun, S.-B. Kim, and S.-W. Lee "FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching" in _ICASSP_, 2025. [[Paper]](https://arxiv.org/abs/2501.04926) [[Code]](https://github.com/jjunak-yun/FLowHigh_code) [[Demo]](https://jjunak-yun.github.io/FLowHigh/)
 
 <br>**[Domestic Conferences]**
 * J.-H. Yun, S.-H. Jeon, and Y.-J. Lee "Distributed Neural Network Optimization Study using Adaptive Approach for Multi-Agent Collaborative Learning Application" in _ACK_, 2023.
