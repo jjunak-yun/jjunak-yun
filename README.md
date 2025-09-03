@@ -2,21 +2,25 @@
 ## Hi there, jjunak-yun's github👋
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 
-🏫 I'm an M.S. student in Department of Artificial Intelligence at Korea University.
+🏫 I'm an Ph.D. student in Department of Artificial Intelligence at Korea University.
 <br><br> Research Interests: **Text-to-Speech**, **Speech Enhancement**, **Generative Models**, **Large-Language Models**
 <br>E-mail: jh_yun@korea.ac.kr
-<br>LinkedIn: -
-<br>Google Scholar: -
+## <a href="www.linkedin.com/in/준학-윤-b64970332"> <img src="https://img.shields.io/badge/LinkedIn-1572B6?style=flat-square&logo=&logoColor=blue"/></a>  
+## <a href="https://scholar.google.co.kr/citations?hl=ko&user=Qk4l_J0AAAAJ"> <img src="https://img.shields.io/badge/GoogleScholar-b31b1b?style=flat-square"/></a>  
 
-
+## <a src="https://img.shields.io/badge/eess.AS-2501.04926-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2501.04926"> <img src="https://img.shields.io/badge/eess.AS-2501.04926-b31b1b?logo=arxiv&logoColor=red"></a> 
 ## 🌱 Education
-* **Sep.2023 - _Present_**
+* **Sep.2025 - _Present_**
+  * Ph.D, Dept. of Artificial Intelligence, Korea University, Seoul
+* **Sep.2023 - Aug.2025**
   * M.S, Dept. of Artificial Intelligence, Korea University, Seoul
 * **Mar.2018 - Aug.2023**
   * B.S, Dept. of Mathematics, Kyung Hee University, Seoul
 
 ## 🔥Research Experience
-* **Sep.2023 - _Present_**
+* **Sep.2025 - _Present_**
+  * PRML Lab in Korea University
+* **Sep.2023 - Aug.2025**
   * PRML Lab in Korea University
 * **Jul.2023 - Aug.2023**
   * Visual Intelligence Lab in Electronics and Telecommunications Research Institute (ETRI)
