@@ -6,7 +6,7 @@
 <br><br> Research Interests: **Text-to-Speech**, **Speech Enhancement**, **Generative Models**, **Large-Language Models**
 <br>E-mail: jh_yun@korea.ac.kr
 
-## <a href="www.linkedin.com/in/JunhakYun-b64970332"> <img src="https://img.shields.io/badge/LinkedIn-1572B6?style=flat-square&logo=&logoColor=blue"/></a>   <a href="https://scholar.google.co.kr/citations?hl=ko&user=Qk4l_J0AAAAJ"> <img src="https://img.shields.io/badge/GoogleScholar-b31b1b?style=flat-square"/></a>  
+## <a href="https://www.linkedin.com/in/JunhakYun-b64970332/"> <img src="https://img.shields.io/badge/LinkedIn-1572B6?style=flat-square&logo=&logoColor=blue"/></a>   <a href="https://scholar.google.co.kr/citations?hl=ko&user=Qk4l_J0AAAAJ"> <img src="https://img.shields.io/badge/GoogleScholar-b31b1b?style=flat-square"/></a>  
 
 ## 🌱 Education
 * **Sep.2025 - _Present_**
