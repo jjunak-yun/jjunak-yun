@@ -5,10 +5,9 @@
 🏫 I'm an Ph.D. student in Department of Artificial Intelligence at Korea University.
 <br><br> Research Interests: **Text-to-Speech**, **Speech Enhancement**, **Generative Models**, **Large-Language Models**
 <br>E-mail: jh_yun@korea.ac.kr
-## <a href="www.linkedin.com/in/준학-윤-b64970332"> <img src="https://img.shields.io/badge/LinkedIn-1572B6?style=flat-square&logo=&logoColor=blue"/></a>  
-## <a href="https://scholar.google.co.kr/citations?hl=ko&user=Qk4l_J0AAAAJ"> <img src="https://img.shields.io/badge/GoogleScholar-b31b1b?style=flat-square"/></a>  
 
-## <a src="https://img.shields.io/badge/eess.AS-2501.04926-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2501.04926"> <img src="https://img.shields.io/badge/eess.AS-2501.04926-b31b1b?logo=arxiv&logoColor=red"></a> 
+## <a href="www.linkedin.com/in/준학-윤-b64970332"> <img src="https://img.shields.io/badge/LinkedIn-1572B6?style=flat-square&logo=&logoColor=blue"/></a>   <a href="https://scholar.google.co.kr/citations?hl=ko&user=Qk4l_J0AAAAJ"> <img src="https://img.shields.io/badge/GoogleScholar-b31b1b?style=flat-square"/></a>  
+
 ## 🌱 Education
 * **Sep.2025 - _Present_**
   * Ph.D, Dept. of Artificial Intelligence, Korea University, Seoul
